@@ -1,0 +1,5 @@
+
+
+### GET request User by ID
+GET http://localhost:8088/review/author/80
+Accept: application/json
